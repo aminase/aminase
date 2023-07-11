@@ -4,11 +4,11 @@ I am a software developer with experience in developing, testing and maintaining
 Currently, I am developing web applications using the latest web technologies and frameworks. The use of these technologies has allowed me to build testable, responsive, and aesthetic user interfaces.
 
 
-Tools & Version Control
+Tools & Version Control <br/>
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/>
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 
-Languages & Frameworks
+Languages & Frameworks <br/>
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
