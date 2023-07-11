@@ -1,7 +1,7 @@
 ### Hi, I am Amina 👋
-I am a software developer with experience in developing, testing and maintaining web apps. I am keen to combine science and tech by employing bioinformatics analysis.
+A software developer with a demonstrated history of developing, testing, and maintaining web applications. Currently, I am developing web applications using the latest web technologies and frameworks. The use of these technologies has allowed me to build testable, responsive, and aesthetic user interfaces.
 
-Currently, I am developing web applications using the latest web technologies and frameworks. The use of these technologies has allowed me to build testable, responsive, and aesthetic user interfaces.
+My previous experience involved three years of dedicated research work in the field of molecular biology/nanomedicine, with a focus on gene silencing and drug delivery. Today, this has provided me with a strong foundation and a unique perspective to combine science and technology by employing bioinformatics analysis using Python.
 <br/>
 <br/>
 [![](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://aminase.github.io/portfolio/)<br/>
