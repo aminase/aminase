@@ -5,7 +5,7 @@ Currently, I am developing web applications using the latest web technologies an
 <br/>
 <br/>
 
-<b>Tools & Version Control</b><br/>
+<b>🔨 Tools & Version Control</b><br/>
 <img width="10%" height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/>
 <img width="10%" height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 <img width="10%" height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
@@ -23,7 +23,12 @@ Currently, I am developing web applications using the latest web technologies an
 <img width="10%" height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img width="10%" height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
 <img width="10%" height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-          
+<br/>
+<br/>
+
+<b>🧪 Testing</b><br/>
+
+   
 
 
 
