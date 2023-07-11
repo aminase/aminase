@@ -3,7 +3,7 @@ I am a software developer with experience in developing, testing and maintaining
 
 Currently, I am developing web applications using the latest web technologies and frameworks. The use of these technologies has allowed me to build testable, responsive, and aesthetic user interfaces.
 <br/>
-<br/>
+[![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@zluvsand)<br/>
 
 <b>🔨 Tools & Version Control</b><br/>
 <img width="10%" height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/>
