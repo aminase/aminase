@@ -1,3 +1,5 @@
+<summary><b>✨About Me</b></summary><br/>
+
 ### Hi, I am Amina 👋
 I am a software developer with experience in developing, testing and maintaining web apps. I am keen to combine science and tech by employing bioinformatics analysis.
 
@@ -8,7 +10,7 @@ Tools & Version Control <br/>
 <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/>
 <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 
-Languages & Frameworks <br/>
+🛠️ Languages & Frameworks <br/>
 <img width="10%" height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img width="10%" height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img width="10%" height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
