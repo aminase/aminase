@@ -25,8 +25,8 @@ Currently, I am developing web applications using the latest web technologies an
 <img width="10%" height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
 <br/>
 <br/>
-
-<b>🧪 Testing</b><br/>
+<!--
+<b>🧪 Testing</b><br/> -->
 
    
 
