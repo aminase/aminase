@@ -1,5 +1,3 @@
-<b>✨About Me</b><br/>
-
 ### Hi, I am Amina 👋
 I am a software developer with experience in developing, testing and maintaining web apps. I am keen to combine science and tech by employing bioinformatics analysis.
 
