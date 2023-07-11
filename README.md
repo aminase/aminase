@@ -6,7 +6,7 @@ My previous experience involved three years of dedicated research work in the fi
 <br/>
 [![](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://aminase.github.io/portfolio/)<br/>
 
-<b>🔨 Tools & Version Control</b><br/>
+<b>Tools & Version Control</b><br/>
 <img width="10%" height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/>
 <img width="10%" height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 <img width="10%" height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
@@ -14,7 +14,7 @@ My previous experience involved three years of dedicated research work in the fi
 <br/>
 <br/>
 
-<b>🛠️ Languages & Frameworks</b><br/>
+<b>Languages & Frameworks</b><br/>
 <img width="10%" height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img width="10%" height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img width="10%" height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
