@@ -1,5 +1,5 @@
 ### Hi, I am Amina 👋
-A software developer with a demonstrated history of developing, testing, and maintaining web applications. The use of the latest web technologies and JavaScript frameworks has allowed me to build testable, responsive and aesthetic user interfaces.
+A software developer with a demonstrated history of developing, testing, and maintaining web applications. The use of the latest web technologies and JavaScript frameworks/libraries has allowed me to build testable, responsive and aesthetic user interfaces.
 
 My previous experience involved three years of dedicated research work in the field of molecular biology/nanomedicine, with a focus on gene silencing and drug delivery. Today, it has given me a solid basis and a distinctive viewpoint to combine science and technology by employing bioinformatics analysis using Python.
 <br/>
