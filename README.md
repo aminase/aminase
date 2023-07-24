@@ -23,6 +23,8 @@ My previous experience involved three years of dedicated research work in the fi
 <img width="10%" height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img width="10%" height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
 <img width="10%" height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+<img width="10%" height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+
 <br/>
 <br/>
 <!--
