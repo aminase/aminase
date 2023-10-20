@@ -1,7 +1,5 @@
 ### Hi, I am Amina.
-A software developer with a demonstrated history of developing, testing, and maintaining web applications. I am skilled in HTML/CSS/JavaScript's ecosystem ME(R/V)N(MongoDB, Express.js, React.js /Vue.js, Node.js) and ReactNative. The use of the latest web technologies and JavaScript frameworks/libraries has allowed me to build testable, responsive, and aesthetic user interfaces.
-
-My previous experience involved three years of laboratory work in the field of molecular biology with a focus on gene silencing. Today, it has given me a solid basis and a distinctive viewpoint to combine science and technology by employing bioinformatics analysis using Python.
+A versatile professional with a diverse background spanning both software development and scientific research. I have a track record of conceiving, developing, testing, and maintaining web applications. My expertise covers the web development ecosystem, specializing in the ME(R/V)N stack (MongoDB, Express.js, React.js/Vue.js, Node.js). I also possess experience in React Native for cross-platform mobile application development. My career commenced with three years of focused research in molecular biology and nanomedicine, with a particular emphasis on gene silencing and drug delivery. In bridging the gap between science and technology, I employ Python for bioinformatics analysis. Python's adaptability and extensive library support make it an ideal choice for processing biological data and generating valuable scientific insights.
 <br/>
 <br/>
 [![](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://aminase.github.io/portfolio/)<br/>
