@@ -1,4 +1,4 @@
-### Hi, I am Amina..
+### Hi, I am Amina...
 A versatile professional with a diverse background spanning both software development and scientific research. I have a track record of conceiving, developing, testing, and maintaining web applications. My expertise covers the web development ecosystem, specializing in the ME(R/V)N stack (MongoDB, Express.js, React.js/Vue.js, Node.js). I also possess experience in React Native for cross-platform mobile application development. My career commenced with three years of focused research in molecular biology and nanomedicine, with a particular emphasis on gene silencing and drug delivery. In bridging the gap between science and technology, I employ Python for bioinformatics analysis. Python's adaptability and extensive library support make it an ideal choice for processing biological data and generating valuable scientific insights.
 <br/>
 <br/>
